@@ -3,27 +3,28 @@
 ## Project Name: Business Design Landing Page
 ### By Yash Shamnani
 
-##  Live Link -: [Business-page](https://project12-business-page.netlify.app/)
+##  Live Link -: [Business-page](https://yashshamnani-buisness-landing-page.netlify.app/)
 ---
 
-## 🛠 Technologies used
+##  Technologies used
 
 > HTML5
+
 > CSS4
 ---
 
 ## learning from this project
 
->  Learnt about Positioning
->  Font awesome icon integration
->  Learned about How to make Page Responsive
->  Learned about Flexbox
+-  Learnt about Positioning
+-  Font awesome icon integration
+- Learned about How to make Page Responsive
+- Learned about Flexbox
 
 ---
 
 ## Time taken to Finish this project
 
-> I have taken 11 hours to complete this project Majority of my time was spent in working of css,flexbox,positioning,responsiveness.
+- I have taken 11 hours to complete this project Majority of my time was spent in working of css , flexbox , positioning , responsiveness.
  
 
 
